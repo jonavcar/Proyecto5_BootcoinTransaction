@@ -22,7 +22,7 @@ import org.springframework.http.ResponseEntity;
  * @author jonavcar
  */
 @RestController
-@RequestMapping("/mov-Bctransaction")
+@RequestMapping("/bctransaction")
 @RequiredArgsConstructor
 public class MovementController {
 
